@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Med-newb
 - 👀 I’m interested in ...innovation ofc & watching YT for hours for no reason
-- 🌱 I’m currently learning ... stock market, PG aspirant being Medico. 
+- 🌱 I’m currently.. an medical intern at PSIMS medical college
 - 💞️ I’m looking to collaborate on ... any kinda Medical researches, Med-Tech projects, Health related projects
 
 -resently won a runner up in MedHACKATHON run by M.I.C.E labs on project for detecting oral cancer non invasively
